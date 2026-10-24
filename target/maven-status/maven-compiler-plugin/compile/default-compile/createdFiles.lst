@@ -1,0 +1,8 @@
+com\hotel\system\Billing.class
+com\hotel\system\Dashboard.class
+com\hotel\system\Login.class
+com\hotel\system\CheckInOut.class
+com\hotel\system\ReservationManagement.class
+com\hotel\system\RoomManagement.class
+com\hotel\system\Reports.class
+com\hotel\system\GuestManagement.class
